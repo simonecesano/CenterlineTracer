@@ -1,6 +1,6 @@
 importScripts(
     'https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.12.11/paper-full.min.js',
-    "./rhill-voronoi-core.js",
+    "./lib/rhill-voronoi-core.js",
     "./MultiLevelMap.js"
 )
 
